@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap");
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+}
+.mt-3 {
+  top: 100px;
+  max-width: 600px;
+  height: 500px;
+  position: relative;
+  background-color: rgba(15, 185, 15, 0.4);
+}
+.btn-danger {
+  position: absolute;
+}
